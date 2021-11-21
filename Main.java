@@ -11,5 +11,6 @@ class Main {
   
   Sugar aCookie = new Sugar();
   aCookie.decorated();
+  
   }
 }
